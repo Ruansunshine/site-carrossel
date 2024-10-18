@@ -1,4 +1,4 @@
-# *Site Carrossel de Carros Luxuosos* #
+# *Site de Carros Luxuosos* #
 Descrição do Projeto
 
 Neste projeto, utilizamos HTML, CSS e o framework Bootstrap para criar uma página web que apresenta três carros luxuosos em um elegante carrossel.
